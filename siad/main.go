@@ -125,7 +125,7 @@ Explorer (e):
 	The explorer provides statistics about the blockchain and can be
 	queried for information about specific transactions or other objects on
 	the blockchain.
-	The explorer requires the consenus set.
+	The explorer requires the consensus set.
 	Example:
 		siad -M gce`)
 }
